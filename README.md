@@ -21,7 +21,7 @@ DouXia (豆匣) is a local-first desktop app that embeds your AI platforms — D
 | Doubao (豆包) | ✅ | ✅ Permanent | Available |
 | Yuanbao (元宝) | ✅ | ✅ Permanent | Available |
 | DeepSeek | ✅ | ✅ Permanent | Available |
-| ChatGPT | ✅ | ⚠️ Archive only | Available |
+| ChatGPT | ✅ | ✅ Permanent | Available |
 
 ## Key Features
 
